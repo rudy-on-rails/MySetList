@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerDiagram dslVersion="1.0.0.0" Id="e9db7908-b7db-489d-9328-2d353626b7d7" absoluteBounds="0, 0, 11, 8.5" name="DiagramaDeCamadas">
+  <layerModelMoniker Id="660a1328-1862-42c1-9dac-cd32d41cd7ff" />
+  <nestedChildShapes>
+    <layerShape Id="4fc71231-0fb8-424b-a81b-e1fec03e3e35" absoluteBounds="2.125, 1.125, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="a4ec13ef-b287-4092-89c7-524d69fa220f" />
+    </layerShape>
+    <layerShape Id="94ccd218-4ddc-408a-909e-99d9523c7467" absoluteBounds="1.5, 2.5, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="91f1df2f-d972-4515-a8da-8b166797ef2e" />
+    </layerShape>
+    <layerShape Id="2b7e8754-dfee-4069-ada5-ce7469e66260" absoluteBounds="5, 0.5, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="5287d7fa-488a-4051-9dc1-4529a413f643" />
+    </layerShape>
+    <layerShape Id="64e64b67-e8b3-4966-b75e-75c8136ad509" absoluteBounds="4.875, 2.375, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="6d8535c8-2bb7-4923-b550-0eaeabd81069" />
+    </layerShape>
+  </nestedChildShapes>
+</layerDiagram>

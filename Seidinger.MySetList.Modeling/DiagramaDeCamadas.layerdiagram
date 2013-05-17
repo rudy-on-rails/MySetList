@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="660a1328-1862-42c1-9dac-cd32d41cd7ff" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="a4ec13ef-b287-4092-89c7-524d69fa220f" name="Seidinger.MySetList.SchemaCreation">
+      <references>
+        <reference Id="984dc7a1-80e9-4e93-bedd-61be429ef42c" name="Seidinger.MySetList.SchemaCreation">
+          <ArtifactNode Label="Seidinger.MySetList.SchemaCreation" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2010/Projects/Seidinger.MySetList/Seidinger.MySetList.ConsoleUtils/Seidinger.MySetList.SchemaCreation.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Seidinger.MySetList.ConsoleUtils)" Label="Seidinger.MySetList.ConsoleUtils.exe" Category="FileSystem.Category.FileOfType.exe">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="91f1df2f-d972-4515-a8da-8b166797ef2e" name="Seidinger.MySetList.Tests">
+      <references>
+        <reference Id="c67f517e-9b28-4343-9878-f12c7c3ed88f" name="Seidinger.MySetList.Tests">
+          <ArtifactNode Label="Seidinger.MySetList.Tests" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2010/Projects/Seidinger.MySetList/Seidinger.MySetList.Tests/Seidinger.MySetList.Tests.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Seidinger.MySetList.Tests)" Label="Seidinger.MySetList.Tests.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="5287d7fa-488a-4051-9dc1-4529a413f643" name="Seidinger.MySetList.Domain">
+      <references>
+        <reference Id="7eac45f8-af6d-467d-a81f-43d24e13eb94" name="Seidinger.MySetList.Domain">
+          <ArtifactNode Label="Seidinger.MySetList.Domain" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2010/Projects/Seidinger.MySetList/Seidinger.MySetList.Domain/Seidinger.MySetList.Domain.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Seidinger.MySetList.Domain)" Label="Seidinger.MySetList.Domain.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="6d8535c8-2bb7-4923-b550-0eaeabd81069" name="Seidinger.MySetList.Infrastructure">
+      <references>
+        <reference Id="bfee00c5-ecba-437e-a69c-947ab72d8421" name="Seidinger.MySetList.Infrastructure">
+          <ArtifactNode Label="Seidinger.MySetList.Infrastructure" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/Visual Studio 2010/Projects/Seidinger.MySetList/Seidinger.MySetList.Infrastructure/Seidinger.MySetList.Infrastructure.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Seidinger.MySetList.Infrastructure)" Label="Seidinger.MySetList.Infrastructure.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+  </layers>
+</layerModel>
